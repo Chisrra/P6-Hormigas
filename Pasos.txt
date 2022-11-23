@@ -1,0 +1,9 @@
+Pasos
+1.- Solicitar los datos. :)
+2.- Calculo de probabilidad de los caminos :)
+3.- Elegir camino y nuevamente hacer el calculo de la probabilidad :)
+4.- Continuar con el paso 2 y 3 hasta que se llegue a la comida (nodo 4),
+	pero si se va a un nodo ya visitado, empezar de nuevo sin actualizar el contador :)
+5.- Calcular la longitud del camino y actualizar las feromonas de todas las aristas
+6.- Repetir del paso 2 a 5 para cada hormiga
+7.- Incrementar las iteraciones
